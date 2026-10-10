@@ -1,0 +1,14 @@
+﻿# Ignore sub-projects that have independent git repos
+/RisingStar/KONATA/
+/RisingStar/MIYUKI/
+
+# Build outputs & toolchains
+/UNMATCHED/build/
+/UNMATCHED/build-cl/
+/UNMATCHED/build-ninja/
+/UNMATCHED/build-vs18/
+/devtools/
+
+# General OS junk
+.DS_Store
+Thumbs.db
